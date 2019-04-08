@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90df3941-3e87-4332-9b4d-af95034a677f" name="Default Changelist" comment="add img, css styling">
+    <list default="true" id="90df3941-3e87-4332-9b4d-af95034a677f" name="Default Changelist" comment="add README updates">
       <change afterPath="$PROJECT_DIR$/../favorite/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../favorite/js/scripts.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../teller/.idea/encodings.xml" afterDir="false" />
@@ -15,7 +15,6 @@
       <change afterPath="$PROJECT_DIR$/../teller/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -151,7 +150,7 @@
       <workItem from="1554596994806" duration="10000" />
       <workItem from="1554597007039" duration="1538000" />
       <workItem from="1554598894979" duration="7451000" />
-      <workItem from="1554698689068" duration="2287000" />
+      <workItem from="1554698689068" duration="2968000" />
     </task>
     <task id="LOCAL-00001" summary="add img, css styling">
       <created>1554699599319</created>
@@ -160,15 +159,28 @@
       <option name="project" value="LOCAL" />
       <updated>1554699599319</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add README exceptions">
+      <created>1554701403958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554701403958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add README updates">
+      <created>1554701574445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554701574445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15559000" />
+    <option name="totallyTimeSpent" value="16240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="198" y="138" width="1163" height="697" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20753065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -195,7 +207,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add img, css styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="add img, css styling" />
+    <MESSAGE value="add README exceptions" />
+    <MESSAGE value="add README updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README updates" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../teller/js/scripts.js">
@@ -229,8 +243,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>

@@ -1,12 +1,12 @@
 # BeepBoop
 
-#### A program that allows users to input a number and rurn a range of digits to the inputted number. /1/17
+#### A program that allows users to input a number and return a range of numbers to the inputted number. 4/5/2019
 
 #### By **Maryana Antonyuk**
 
 ## Description
 
-A website created with Javascript and HTML.
+A website created with Javascript,CSS and HTML.
 
 
 ### Specs
@@ -21,7 +21,7 @@ A website created with Javascript and HTML.
 ## Specs Exceptions
 Exceptions are listed from the most important to the least important.
 1. If a number contains more than 1 digit and one of these digits is 1, all digits changes to "I am sorry.."
-2.If a number contains more than 1 digit and one of the digits is 2, all digits turn into "Boop!".
+2. If a number contains more than 1 digit and one of the digits is 2, all digits turn into "Boop!".
 3. If a number contains more than 1 digit and one of the digit is 1, all digit turn into "Beep!".
 ## Setup/Installation Requirements
 
