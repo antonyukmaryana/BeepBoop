@@ -40,10 +40,10 @@ Exceptions are listed from the most important to the least important.
 
 ## Support and contact details
 
-_Email no one with any questions, comments, or concerns._
+_Email  with any questions, comments, or concerns._
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
 Copyright (c) 2019 **_Maryana Antonyuk_**
