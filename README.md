@@ -17,14 +17,13 @@ A website created with Javascript and HTML.
 | **Program changes number 1 from User Input to "Beep"**| User Input: "4" | Output: "0,Beep,2,3,4" |
 | **Program changes number 2 from User Input to "Boop"**| Input: "4" | Output: "0,Beep, Boop,3,4" |
 | **Program changes number 3 to "I am sorry.."** | Input: "4" | Output: "0,Beep,Boop,I am sorry..,4,5" |
-| 
+
 
 ## Setup/Installation Requirements
 
-1. To run this program, you must have any Iternet browser installed. 
-2
-3. Clone this repository or access it via link for GitHub page 
-4
+1. To run this program, you must have any Internet browser installed. 
+2. Clone this repository or access it via link for GitHub page.
+
 ## Known Bugs
 * No known bugs at this time.
 
